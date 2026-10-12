@@ -1,0 +1,34 @@
+:root {
+  /* Palette — deep red "minimalism" (red cards on cream paper) */
+  --color-primary: #511419;
+  --color-primary-deep: #380a0e;
+  --color-primary-light: #6e1a20;
+  --color-accent: #c9a24a;
+  --color-soft: #ece4d8;
+  --color-text: #511419;
+  --color-surface: #fff7eb;
+
+  /* Typography */
+  --font-heading: "Viaoda Libre", "EB Garamond", cursive;
+  --font-script: "Alex Brush", "The Nautigal", cursive;
+  --font-body: "Lora", "Times New Roman", serif;
+  --font-serif-alt: "EB Garamond", "Times New Roman", serif;
+  --font-welcome: "Cormorant Garamond", "Times New Roman", serif;
+
+  /* Scale & layout */
+  --text-hero: clamp(2rem, 6vw, 3rem);
+  --text-section-title: clamp(1.5rem, 4vw, 2.25rem);
+  --text-body: 1rem;
+  --section-pad-y: clamp(3rem, 8vw, 5rem);
+  --radius-card: 8px;
+  --container-max: 32rem;
+  --container-px: 1.5rem;
+
+  /* Animations */
+  --duration-reveal: 0.7s;
+
+  /* Shadows */
+  --shadow-button: 0 4px 14px rgba(81, 20, 25, 0.35);
+  --shadow-button-hover: 0 6px 20px rgba(81, 20, 25, 0.5);
+  --shadow-player: 0 4px 14px rgba(81, 20, 25, 0.4);
+}

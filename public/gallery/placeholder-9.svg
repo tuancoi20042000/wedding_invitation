@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#f3e8da"/>
+  <g fill="none" stroke="#c9a063" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" opacity="0.7">
+    <rect x="250" y="270" width="300" height="230" rx="24"/>
+    <circle cx="335" cy="345" r="28"/>
+    <path d="M262 470l90-80 70 60 50-40 76 62"/>
+  </g>
+  <text x="400" y="580" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#8b2229" opacity="0.75">Ảnh 9</text>
+</svg>
