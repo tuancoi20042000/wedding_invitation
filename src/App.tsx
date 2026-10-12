@@ -33,7 +33,7 @@ export default function App() {
   return (
     <main className="min-h-screen w-full" style={{ backgroundColor: '#f1e8dc' }}>
       <div
-        className="relative isolate mx-auto w-full max-w-[480px] overflow-x-clip md:shadow-[0_0_40px_rgba(81,20,25,0.12)]"
+        className="relative isolate mx-auto w-full max-w-[720px] overflow-x-clip md:shadow-[0_0_40px_rgba(81,20,25,0.12)]"
         style={{
           backgroundColor: 'var(--color-surface)',
           color: 'var(--color-primary)',

@@ -27,7 +27,7 @@ export default function Album({ data }: SectionProps) {
         <Heading>{data.gallery.title}</Heading>
       </Reveal>
       <Reveal delay={100}>
-        <div className="mt-7 grid grid-cols-2 gap-3">
+        <div className="mt-7 grid grid-cols-2 gap-3 md:grid-cols-3">
           {images.slice(0, VISIBLE).map((image, i) => (
             <button
               key={image.url}
